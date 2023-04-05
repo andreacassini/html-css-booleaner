@@ -39,7 +39,7 @@
     color: rgb(83, 164, 230);
 }
 
-.scritto_da{
+.scritto-da{
     margin-top: 3px;
     font-size: 20px;
     color: grey;
@@ -74,3 +74,39 @@ ul{
 .highlighted{
     background-color: yellow;
 }
+
+.list{
+    margin: 15px;
+}
+
+/* Inizio tabella */
+
+.table{
+    height: 10px;
+    width: fit-content;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.thead{
+    color: white;
+    background-color: rgb(74, 178, 212);
+}
+
+.tbody{
+    color: black;
+}
+
+.odd{
+    background-color: rgba(97, 212, 212, 0.603);    
+}
+
+.even{
+    background-color: white;    
+}
+.table-title{
+    width: 500px
+}
+
+
+/* Fine tabella */

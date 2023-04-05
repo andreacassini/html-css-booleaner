@@ -3,3 +3,30 @@
     margin: 0;
     box-sizing: border-box;
  }
+
+
+ /* Header */
+.header{
+    background-color: rgb(83, 164, 230);
+    background-image: url(../img/pattern.png);
+    background-size: 34%
+}
+
+.logo{
+    height: 50px;
+    margin-top: 30px;
+    margin-bottom: 8px;
+    margin-left: 5px;
+}
+
+/* fine header*/
+
+/* Main */
+
+.container{
+    margin-left: 5px;
+}
+
+#title{
+    
+}

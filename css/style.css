@@ -79,7 +79,7 @@ ul{
     margin: 15px;
 }
 
-/* Inizio tabella */
+/* Tabella */
 
 .table{
     height: 10px;
@@ -108,5 +108,28 @@ ul{
     width: 500px
 }
 
-
 /* Fine tabella */
+
+/* Fine main */
+
+/* Footer */
+
+.title-footer{
+    color: grey;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.image-footer {
+  position: relative;
+  color: white;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Fine footer */
